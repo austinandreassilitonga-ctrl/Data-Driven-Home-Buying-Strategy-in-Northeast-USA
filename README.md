@@ -1,4 +1,4 @@
-#  Housing Price Distribution Analysis — Northeast States, USA
+#  Data Driven Home Buying Strategy — Northeast States, USA
 
 > A data analysis project to help **Mr. Andreas** find the right home within a **$2,000,000 USD** budget.
 

@@ -117,6 +117,11 @@ jupyter notebook notebook.ipynb
 
 ---
 
+## Dashboard
+**Tableau Dashboard** : [Tableau](https://public.tableau.com/views/HousePriceDashboard-Austin/HOUSINGPRICEDASHBOARD?:language=en-US&publish=yes&:sid=9C0A97653A1441E6BD3B42207D091867-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
 ##  Recommendation
 
 For Mr. Andreas, the analysis suggests focusing on **3-bedroom, semi-furnished homes priced between $1.5M and $2.0M**, preferably near the main road. These homes represent the best combination of affordability, space, and family suitability within the available market.

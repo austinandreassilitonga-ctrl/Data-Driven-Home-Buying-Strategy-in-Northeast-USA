@@ -32,7 +32,7 @@ This project analyzes a housing dataset to answer critical questions about price
 ├── notebook.ipynb               ← Main Jupyter Notebook with full analysis
 ├── Housing.csv                  ← Dataset (sourced from Kaggle)
 ├── description.md               ← Project metadata and stack summary
-└── summary_dashboard.png        ← dashboard all visualization
+└── insight.md                   ← Insight & Tableau Dashboard
 ```
 
 ---

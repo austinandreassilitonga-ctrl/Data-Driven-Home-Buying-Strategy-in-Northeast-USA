@@ -1,4 +1,4 @@
-#  Housing Price Distribution Analysis — Northeast States, USA
+#  Data Driven Home Buying Strategy — Northeast States, USA
 
 > A data analysis project to help **Mr. Andreas** find the right home within a **$2,000,000 USD** budget.
 
@@ -28,10 +28,11 @@ This project analyzes a housing dataset to answer critical questions about price
 ##  Repository Structure
 
 ```
-├── README.md              ← Project overview (this file)
-├── notebook.ipynb         ← Main Jupyter Notebook with full analysis
-├── Housing.csv            ← Dataset (sourced from Kaggle)
-└── description.md         ← Project metadata and stack summary
+├── README.md                    ← Project overview (this file)
+├── notebook.ipynb               ← Main Jupyter Notebook with full analysis
+├── Housing.csv                  ← Dataset (sourced from Kaggle)
+├── description.md               ← Project metadata and stack summary
+└── summary_dashboard.png        ← dashboard all visualization
 ```
 
 ---

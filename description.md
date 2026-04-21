@@ -21,6 +21,9 @@ An interactive Jupyter Notebook containing:
 - Feature impact visualizations (area, bedrooms, stories, amenities)
 - A comprehensive summary dashboard
 
+## Dashboard
+**Tableau Dashboard** : [Tableau](https://public.tableau.com/views/HousePriceDashboard-Austin/HOUSINGPRICEDASHBOARD?:language=en-US&publish=yes&:sid=9C0A97653A1441E6BD3B42207D091867-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Data
 Dataset sourced from [Kaggle.com](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset) — Housing Prices Dataset  
 - **545 rows × 13 columns**

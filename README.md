@@ -32,7 +32,7 @@ This project analyzes a housing dataset to answer critical questions about price
 ├── notebook.ipynb               ← Main Jupyter Notebook with full analysis
 ├── Housing.csv                  ← Dataset (sourced from Kaggle)
 ├── description.md               ← Project metadata and stack summary
-└── summary_dashboard.png        ← dashboard all visualization
+└── insight.md                   ← Insight & Tableau Dashboard
 ```
 
 ---
@@ -114,6 +114,11 @@ jupyter notebook notebook.ipynb
 | Homes within $2M budget | ~14% |
 | Family-suitable (budget + ≥3 beds) | varies by filter |
 | Strongest price predictor (numeric) | Area (R² ≈ 0.28) |
+
+---
+
+## Dashboard
+**Tableau Dashboard** : [Tableau](https://public.tableau.com/views/HousePriceDashboard-Austin/HOUSINGPRICEDASHBOARD?:language=en-US&publish=yes&:sid=9C0A97653A1441E6BD3B42207D091867-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 

@@ -1,7 +1,7 @@
 # Dashboard Insights — Housing Price Analysis
 ### Northeast States, USA | Mr. Andreas' Budget: $2,000,000
 
-![Dashboard](visualization\tableau_dashboard.png)
+![Dashboard](visualization/tableau_dashboard.png)
 ---
 
 ## 1. Price Distribution
